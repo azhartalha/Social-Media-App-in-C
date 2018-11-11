@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\syeda\source\repos\socialmediaapp\socialmediaapp\memorymanager.h(11): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+c:\users\syeda\source\repos\socialmediaapp\socialmediaapp\source.cpp(87): warning C4091: 'typedef ': ignored on left of 'userStruct' when no variable is declared
+c:\users\syeda\source\repos\socialmediaapp\socialmediaapp\source.cpp(255): warning C4091: 'typedef ': ignored on left of 'postStruct' when no variable is declared
+c:\users\syeda\source\repos\socialmediaapp\socialmediaapp\source.cpp(457): warning C4091: 'typedef ': ignored on left of 'commentStruct' when no variable is declared
+c:\users\syeda\source\repos\socialmediaapp\socialmediaapp\source.cpp(651): warning C4129: 'N': unrecognized character escape sequence
+  socialMediaApp.vcxproj -> C:\Users\syeda\source\repos\socialMediaApp\Debug\socialMediaApp.exe
